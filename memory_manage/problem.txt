@@ -1,0 +1,6 @@
+ Temperature Sensor Data Logger
+ * 
+ * Problem: Design a system to collect temperature readings from multiple sensors,
+ * store them efficiently, perform analysis, and output results.
+ * 
+ * This example demonstrates different memory management approaches and when to use them.
